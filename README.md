@@ -1,6 +1,6 @@
 # FastSSH
 
-![|475](https://bucket.ryanfight.org/images/file-20241225170249607.png)
+<img src="https://bucket.ryanfight.org/images/file-20241225170249607.png" width="300" alt="FastSSH">
 
 FastSSH 是一个简单的脚本，用于通过 SSH 连接到多个服务器。它支持使用 SSH 密码进行身份验证，并提供了一个友好的用户界面来选择要连接的服务器。
 
